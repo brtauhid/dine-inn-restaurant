@@ -1,0 +1,26 @@
+header#header {
+  background-color: #993737;
+}
+
+.about-h4 {
+  color: #cda45e;
+  font-size: 50px;
+}
+
+.about-p {
+  text-align: justify;
+}
+
+#header.header-scrolled {
+  background: #cda45e;
+}
+
+.navbar a:hover,
+.navbar .active,
+.navbar .active:focus {
+  color: #000000;
+}
+
+.navbar li:hover > a {
+  color: gray;
+}
